@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="BiljectivePara\BiljectivePara.cpp">
+      <Filter>BiljectivePara</Filter>
+    </ClCompile>
+    <ClCompile Include="BiljectivePara\Common.cpp">
+      <Filter>BiljectivePara</Filter>
+    </ClCompile>
+    <ClCompile Include="BiljectivePara\Parafun.cpp">
+      <Filter>BiljectivePara</Filter>
+    </ClCompile>
+    <ClCompile Include="BiljectivePara\ShellData.cpp">
+      <Filter>BiljectivePara</Filter>
+    </ClCompile>
+    <ClCompile Include="BiljectivePara\TriangleInterface.cpp">
+      <Filter>BiljectivePara</Filter>
+    </ClCompile>
+    <ClCompile Include="BiljectivePara\MeshDefinition.cpp">
+      <Filter>BiljectivePara</Filter>
+    </ClCompile>
+    <ClCompile Include="BiljectivePara\PardisoSolver.cpp">
+      <Filter>BiljectivePara</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BiljectivePara\BiljectivePara.h">
+      <Filter>BiljectivePara</Filter>
+    </ClInclude>
+    <ClInclude Include="BiljectivePara\Common.h">
+      <Filter>BiljectivePara</Filter>
+    </ClInclude>
+    <ClInclude Include="BiljectivePara\Parafun.h">
+      <Filter>BiljectivePara</Filter>
+    </ClInclude>
+    <ClInclude Include="BiljectivePara\ShellData.h">
+      <Filter>BiljectivePara</Filter>
+    </ClInclude>
+    <ClInclude Include="BiljectivePara\TriangleInterface.h">
+      <Filter>BiljectivePara</Filter>
+    </ClInclude>
+    <ClInclude Include="BiljectivePara\MeshDefinition.h">
+      <Filter>BiljectivePara</Filter>
+    </ClInclude>
+    <ClInclude Include="BiljectivePara\PardisoSolver.h">
+      <Filter>BiljectivePara</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="BiljectivePara">
+      <UniqueIdentifier>{53319dcb-21ca-4e66-8bc4-15eecc0fe78d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
