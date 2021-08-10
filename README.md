@@ -5,8 +5,7 @@ This is an implementation of the paper "Efficient Bijective Parameterizations".
 * [OpenMesh](https://www.graphics.rwth-aachen.de/software/openmesh/download/)
 * [Eigen](http://eigen.tuxfamily.org/)
 * [Triangle](http://www.cs.cmu.edu/~quake/triangle.html)
-* [CGAL](https://www.cgal.org/download.html)
-* [PARDISO](https://pardiso-project.org/)
+* [MKL](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html#gs.8lvw52)
 * [Qt](http://download.qt.io/archive/qt/) optional for GUI
 
 ### Usage
